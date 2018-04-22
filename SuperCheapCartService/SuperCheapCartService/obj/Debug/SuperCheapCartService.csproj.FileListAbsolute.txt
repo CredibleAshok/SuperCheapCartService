@@ -43,3 +43,4 @@ C:\Users\sweekar\Documents\GitHub\SuperCheapCartService\SuperCheapCartService\Su
 C:\Users\sweekar\Documents\GitHub\SuperCheapCartService\SuperCheapCartService\SuperCheapCartService\bin\System.Web.Http.WebHost.xml
 C:\Users\sweekar\Documents\GitHub\SuperCheapCartService\SuperCheapCartService\SuperCheapCartService\obj\Debug\SuperCheapCartService.dll
 C:\Users\sweekar\Documents\GitHub\SuperCheapCartService\SuperCheapCartService\SuperCheapCartService\obj\Debug\SuperCheapCartService.pdb
+C:\Users\sweekar\Documents\GitHub\SuperCheapCartService\SuperCheapCartService\SuperCheapCartService\obj\Debug\SuperCheapCartService.csprojResolveAssemblyReference.cache

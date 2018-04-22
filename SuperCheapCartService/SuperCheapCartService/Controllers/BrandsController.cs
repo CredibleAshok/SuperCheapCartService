@@ -18,10 +18,10 @@ namespace SuperCheapCartService.Controllers
 
         // GET: api/Brands
         [HttpGet]
-        [Route("api/Brands")]
-        public IQueryable<Brand> GetBrands()
+        [Route("api/getBrands")]
+        public IList<Brand> GetBrands()
         {
-            return db.Brands;
+            return db.Brands.ToList();
         }
 
         // GET: api/Brands/5

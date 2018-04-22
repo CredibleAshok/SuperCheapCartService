@@ -107,7 +107,10 @@
     <Compile Include="Controllers\AddressesController.cs" />
     <Compile Include="Controllers\BrandsController.cs" />
     <Compile Include="Controllers\CategoriesController.cs" />
+    <Compile Include="Controllers\PackageSizesController.cs" />
+    <Compile Include="Controllers\PackageTypesController.cs" />
     <Compile Include="Controllers\ProductIconsController.cs" />
+    <Compile Include="Controllers\ProductsController.cs" />
     <Compile Include="Controllers\RolesController.cs" />
     <Compile Include="Controllers\StocksController.cs" />
     <Compile Include="Controllers\StockStatusController.cs" />

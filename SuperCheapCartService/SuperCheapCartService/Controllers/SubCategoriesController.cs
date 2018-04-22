@@ -24,7 +24,17 @@ namespace SuperCheapCartService.Controllers
         {
             return db.SubCategories.ToList();
         }
-        
+
+        // GET: api/SubCategories
+        [HttpGet]
+        [Route("api/getSubcategoriesByCategoryId")]
+        public IList<SubCategory> GetSubcategoriesByCategoryId(int CategoryId)
+        {
+            //todo: correct it after ui is done
+            //return db.SubCategories.Where(x => x.CategoryId = CategoryId).ToList();
+            return db.SubCategories.ToList();
+        }
+
         // POST: api/SubCategories
         [HttpPost]
         [Route("api/saveSubcategory")]
